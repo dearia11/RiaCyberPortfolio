@@ -23,7 +23,7 @@ All actions were performed on test accounts I control. No real users or organiza
 
 ---
 
-## Key Observations (from screenshots)
+# Key Observations (from screenshots)
 - **Subject:** `Important: Password Expiration Notice!` (social engineering urgency).  
 - **Display name:** `bank commonwealth bank` — attempts to impersonate a bank.  
 - **Sender email:** `bankcommonwealthb@gmail.com` — a personal Gmail address (mismatch with display name).  
@@ -39,7 +39,7 @@ All actions were performed on test accounts I control. No real users or organiza
 
 ---
 
-# Evidence (include these in `screenshots/` and reference in the repo)
+# Evidence / Screenshots
 -  Inbox view showing subject, display name, sender email and email body with highlighted suspicious link.
   <img width="1733" height="775" alt="Screenshot 2025-10-14 163100" src="https://github.com/user-attachments/assets/d866553f-1d44-4d53-a452-4388ed275a5c" />
 
