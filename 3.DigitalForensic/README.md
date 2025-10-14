@@ -7,7 +7,6 @@ Investigate and recover deleted or hidden files from a digital image using foren
 - **Autopsy** – GUI-based forensic platform for analyzing and recovering data from disk images.  
 - **OSForensics** – Used to compare results and validate data recovery.  
 - **WinHex** – For low-level disk and hex inspection.  
-- **Kali Linux (VirtualBox)** – Environment for running Autopsy and forensic utilities.
 
 # Steps Performed
 1. Downloaded and installed Autopsy and OSForensics on Kali Linux via VirtualBox.  
@@ -36,8 +35,7 @@ Investigate and recover deleted or hidden files from a digital image using foren
 # Screenshots
 - Evidence image loaded in Autopsy  
 - Keyword search & recovered file list  
-- Hex data view in WinHex  
-- HTML report comparison results  
+- Hex data view in WinHex   
 
 ---
 examine the file
