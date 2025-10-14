@@ -80,5 +80,3 @@ bit shifting
 <img width="1306" height="375" alt="image" src="https://github.com/user-attachments/assets/3babfe31-6d77-4334-bea2-d083283bcac2" />
 <img width="903" height="375" alt="image" src="https://github.com/user-attachments/assets/bde61975-c5fc-4a74-be1c-0318c287f061" />
 
-
-📂 **Repository Structure Example**
