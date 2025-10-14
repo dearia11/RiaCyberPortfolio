@@ -1,0 +1,60 @@
+# ISO 27001 Security Policy Documentation  
+
+# Objective  
+Develop a complete set of **information security policies** aligned with the **ISO/IEC 27001** standard.  
+This project demonstrates knowledge of **Governance, Risk, and Compliance (GRC)** through the design of clear, structured, and enforceable security documentation.
+
+---
+
+# Tools Used  
+- Microsoft Word — Policy documentation and formatting  
+- Microsoft Excel — Risk Matrix and Annex A mapping  
+- ISO/IEC 27001 Framework — Control references (Annex A)
+
+---
+
+# Project Overview  
+This project focuses on implementing the key elements of an **Information Security Management System (ISMS)**, including:  
+- Establishing an information security framework  
+- Identifying and evaluating security risks  
+- Designing policies that address ISO 27001 Annex A controls  
+- Mapping each policy to the corresponding control domain  
+
+---
+
+# Key Deliverables  
+| # | Document | Description |
+|---|-----------|-------------|
+| 1 | **Information Security Policy** | Defines organizational objectives, scope, and commitment to information security. |
+| 2 | **Access Control Policy** | Outlines rules for account creation, permissions, and authentication management. |
+| 3 | **Acceptable Use Policy** | Sets behavioral standards for staff, contractors, and users. |
+| 4 | **Incident Response Policy** | Describes procedures for detecting, reporting, and recovering from incidents. |
+| 5 | **Risk Matrix** | Evaluates potential threats by likelihood and impact. |
+| 6 | **Annex A Controls Mapping** | Links ISO 27001 Annex A controls to implemented policies. |
+
+---
+
+## 🧩 ISO 27001 Annex A Domains Covered  
+- A.5 — Information Security Policies  
+- A.6 — Organization of Information Security  
+- A.8 — Asset Management  
+- A.9 — Access Control  
+- A.12 — Operations Security  
+- A.16 — Incident Management  
+- A.18 — Compliance  
+
+---
+
+## 📊 Example Risk Matrix  
+
+
+🟩 Low (1–5) 🟨 Medium (6–15) 🟥 High (16–25)
+
+---
+
+# What I Learned  
+- How ISO 27001 frameworks strengthen organizational security governance.  
+- How to write policy documents aligned with real-world compliance standards.  
+- How to identify, assess, and mitigate information security risks.  
+- The importance of aligning documentation with **Annex A controls** and **risk-based thinking**.  
+
