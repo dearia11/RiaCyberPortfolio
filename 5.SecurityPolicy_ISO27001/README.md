@@ -25,6 +25,7 @@ This project focuses on implementing the key elements of an **Information Securi
 
 # Key Deliverables  
 <img width="1164" height="413" alt="image" src="https://github.com/user-attachments/assets/b6457058-4058-40d0-8291-2ab969054649" />
+
 - [School Information Security Policy.docx](https://github.com/user-attachments/files/22915388/School.Information.Security.Policy.docx)
   
 - [Access Control Policy.docx](https://github.com/user-attachments/files/22915394/Access.Control.Policy.docx)
